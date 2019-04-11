@@ -1,2 +1,3 @@
 alterado1
 alterado2
+alterado3 após o primeiro merge
